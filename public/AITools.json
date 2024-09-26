@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "AI Avatar",
+    "description": "Create personalized avatars with our advanced AI technology. Ideal for both professional and creative uses, you can experiment with various styles and customization options to craft an avatar that truly reflects your personality.",
+    "videoUrl": "video/text-to-img.webm",
+    "buttonText": "Generate Image",
+    "buttonLink": "/First_App"
+  },
+  {
+    "id": 2,
+    "title": "AI Text To Image",
+    "description": "Transform text prompts into stunning images with our AI-powered tool. Perfect for artists and marketers, this tool brings your words to life with vibrant, detailed visuals, ideal for artwork or promotional materials.",
+    "videoUrl": "video/realtime-text.webm",
+    "buttonText": "Get Started",
+    "buttonLink": "/Second_App"
+  },
+  {
+    "id": 3,
+    "title": "StoryTeller AI",
+    "description": "Enhance your storytelling with AI-powered narration and assistance. Ideal for writers of all levels, StoryTeller AI offers features like voice synthesis and plot suggestions to help you craft captivating stories.",
+    "videoUrl": "video/text-to-video.webm",
+    "buttonText": "Discover More",
+    "buttonLink": "https://example.com/storyteller"
+  },
+  {
+    "id": 4,
+    "title": "DesignMaster AI",
+    "description": "Boost your design projects with AI-driven tools and suggestions. From automated design elements to intelligent color palettes, DesignMaster AI helps you create stunning visuals with ease.",
+    "videoUrl": "video/realtime-canvas.webm",
+    "buttonText": "Explore Features",
+    "buttonLink": "https://example.com/designmaster"
+  },
+  {
+    "id": 5,
+    "title": "MusicMaker AI",
+    "description": "Compose unique music tracks using AI. With a range of instruments and effects, MusicMaker AI helps you create original compositions, from background music to full-length tracks.",
+    "videoUrl": "video/enhance.webm",
+    "buttonText": "Try Now",
+    "buttonLink": "https://example.com/musicmaker"
+  },
+  {
+    "id": 6,
+    "title": "PhotoEnhance AI",
+    "description": "Enhance your photos with AI-powered adjustments and effects. Whether you want to improve quality or add artistic touches, PhotoEnhance AI makes photo editing easy and accessible.",
+    "videoUrl": "video/character-consistency.webm",
+    "buttonText": "Enhance Photos",
+    "buttonLink": "https://example.com/photoenhance"
+  }
+]
+

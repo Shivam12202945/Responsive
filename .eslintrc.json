@@ -1,0 +1,12 @@
+{
+  "extends": ["next/core-web-vitals"],
+  "rules": {
+    "no-console": "off",
+    "no-unused-vars": "off",
+    "react/jsx-key": "off",
+     "@next/next/no-img-element": "off",
+     "next/next-image-missing-alt": "off"
+    // Add or customize other rules as needed
+  }
+}
+
