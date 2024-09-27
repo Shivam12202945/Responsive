@@ -79,7 +79,7 @@ export default function HomePage() {
               htmlFor="negativePrompt"
               className="block text-gray-700 font-medium mb-2"
             >
-              Anything you don't want
+              Anything you don t want
             </label>
             <input
               type="text"
